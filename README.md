@@ -19,7 +19,7 @@ List of open-source web browers which does NOT based on Webkit/Chromium(blink)
 
 ### Non-firefox
 
-- [Mozilla Seamonkey](http://www.seamonkey-project.org/)
+- [Mozilla Seamonkey](https://www.seamonkey-project.org/)
 - 🔓[K-Meleon](http://kmeleonbrowser.org/)
 - 🔓[Conkeror](http://conkeror.org/) [^1]
 
