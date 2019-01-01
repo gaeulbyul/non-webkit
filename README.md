@@ -16,16 +16,19 @@ List of open-source web browers which does NOT based on Webkit/Chromium(blink)
 - [Mozilla Firefox](https://www.mozilla.org/firefox)
 - [Waterfox](https://www.waterfoxproject.org/)
 - [Cliqz](https://cliqz.com/)
+- [Librefox](https://github.com/intika/Librefox)
 
 ### Non-firefox
 
 - [Mozilla Seamonkey](https://www.seamonkey-project.org/)
 - 🔓[K-Meleon](http://kmeleonbrowser.org/)
-- 🔓[Conkeror](http://conkeror.org/) [^1]
+- 🔓[Conkeror](http://conkeror.org/)
+  - Conkeror can use Goanna engine with Pale Moon. see 🔓 http://conkeror.org/PaleMoon
 
-### Mobile
+### Mobile (Android)
 
 - [Firefox Focus(Klar)](https://github.com/mozilla-mobile/focus-android) [^2]
+  - Visit `focus:test` and Enable to use GeckoView. see https://github.com/mozilla-mobile/focus-android/wiki/GeckoView-(In-Progress)
 
 ## Goanna
 
@@ -54,6 +57,3 @@ _Note: these browser may incompatible JavaScript-heavy modern website_
 
 - [Netsurf](https://www.netsurf-browser.org/)
 - [Dillo](https://www.dillo.org/)
-
-[^1]: Conkeror can use Goanna engine with Pale Moon. see 🔓 http://conkeror.org/PaleMoon
-[^2]: Visit `focus:test` and Enable to use GeckoView. see https://github.com/mozilla-mobile/focus-android/wiki/GeckoView-(In-Progress)
