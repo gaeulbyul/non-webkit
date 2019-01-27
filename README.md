@@ -27,7 +27,7 @@ List of open-source web browers which does NOT based on Webkit/Chromium(blink)
 
 ### Mobile (Android)
 
-- [Firefox Focus(Klar)](https://github.com/mozilla-mobile/focus-android) [^2]
+- [Firefox Focus(Klar)](https://github.com/mozilla-mobile/focus-android)
   - Visit `focus:test` and Enable to use GeckoView. see https://github.com/mozilla-mobile/focus-android/wiki/GeckoView-(In-Progress)
 
 ## Goanna
@@ -44,6 +44,7 @@ http://thereisonlyxul.org/
 - [Pale Moon](https://www.palemoon.org/)
 - [Basilisk](https://www.basilisk-browser.org/)
 - [Iceweasel-UXP](https://wiki.hyperbola.info/doku.php?id=en:project:iceweasel-uxp)
+- [Iceape-UXP](https://wiki.hyperbola.info/doku.php?id=en:project:iceape-uxp)
 - 🔓[Borealis Navigator](http://binaryoutcast.com/projects/borealis/)
 
 ### Pre-UXP
