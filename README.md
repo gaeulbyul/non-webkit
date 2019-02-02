@@ -2,7 +2,7 @@
 
 List of open-source web browers which does NOT based on Webkit/Chromium(blink)
 
-**Note: Some browsers may use old-version engine that might be vulnable**
+**Note: Some browsers may use old-version engine that might be vulnerable**
 
 (🔓: non-HTTPS link)
 
@@ -14,6 +14,7 @@ List of open-source web browers which does NOT based on Webkit/Chromium(blink)
 ### Firefox
 
 - [Mozilla Firefox](https://www.mozilla.org/firefox)
+- [GNU Icecat](https://www.gnu.org/software/gnuzilla/)
 - [Waterfox](https://www.waterfoxproject.org/)
 - [Cliqz](https://cliqz.com/)
 - [Librefox](https://github.com/intika/Librefox)
@@ -39,7 +40,7 @@ https://www.moonchildproductions.info/goanna.shtml
 
 ### UXP
 
-http://thereisonlyxul.org/
+🔓 http://thereisonlyxul.org/
 
 - [Pale Moon](https://www.palemoon.org/)
 - [Basilisk](https://www.basilisk-browser.org/)
